@@ -8,4 +8,4 @@ This is my second repository.
 *italic*
 :pizza:
 :coffee:
-this is 
+this is new line for friday lesson
