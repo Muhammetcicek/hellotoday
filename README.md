@@ -9,3 +9,4 @@ This is my second repository.
 :pizza:
 :coffee:
 this is new line for friday lesson
+i try to find mistake
